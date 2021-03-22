@@ -1,1 +1,1 @@
-# ECG_capacity
+# Evaluation of Heart Capacity using ECG
